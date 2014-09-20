@@ -121,7 +121,7 @@ function handleWebmPost()
                     //Clear the file from PTChan's post form
                     $("#postform input[type='file']")[0].value = "";
                     //Add metadata to post's header
-                    $("#postform textarea")[0].value = "[spoiler][webmdata]"+window.btoa(directPlayURL)+"[/webmdata][/spoiler]\n"+$("#postform textarea")[0].value;
+                    $("#postform textarea")[0].value = "[spoiler][webmdata]"+window.btoa(directPlayURL)+"[/webmdata] Para veres o vídeo instala a extensão (Google Chrome) https://github.com/ptchanextension/PTChan-Chrome-Extension[/spoiler]\n"+$("#postform textarea")[0].value;
                     //Construct a form according to PTChan's post form
                     var ptChanFormData = new FormData($("#postform")[0]);
                     
