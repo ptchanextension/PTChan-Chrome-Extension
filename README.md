@@ -20,9 +20,11 @@ Funcionalidades
 Videos WebM
 ---------------------
 É só fazer upload do ficheiro .webm como se fosse outro qualquer. Vai aparecer uma barra a indicar o progresso do upload.
+
 ![WebM upload](http://i.imgur.com/MkH9GUg.png)
 
 Clicar na imagem ou no link acima da imagem abre a WebM.
+
 ![WebM post](http://i.imgur.com/oOip3lk.png)
 
 Sugestões
