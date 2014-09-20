@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+
+    "name": "PTChan",
+    "description": "Segure o xã, amarre o xã, segure o xã xã xã xã xã",
+    "version": "1.0",
+
+    "icons": { "16": "16.png",
+             "48": "48.png",
+            "128": "128.png" },
+
+    "permissions":
+    [
+      "*://*.webmshare.com/*" 
+    ],
+
+    "content_scripts":
+    [
+        {
+            "matches": ["*://www.ptchan.net/*"],
+            "js": ["jquery-2.1.1.min.js", "contentscript.js"]
+        }
+    ]
+}
