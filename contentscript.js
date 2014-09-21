@@ -38,7 +38,7 @@ function handleExistingWebms()
         //Override the onclick handle for the filename link, to open the WebM in a new window
         webmPostFilenameImageLink.attr("onclick", "window.open('"+webmURL+"'); return false;");
         //Remove the first line from the post (contains metadata for this extension, no longer needed)
-        webms[i].innerText = webms[i].innerText.split("\n").slice(1).join("\n");
+        webms[i].innerHTML = webms[i].innerHTML.split("\n").slice(1).join("\n");
     }
 }
 
