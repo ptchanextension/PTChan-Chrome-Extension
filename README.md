@@ -5,7 +5,7 @@ Segure o xã, amarre o xã, segure o xã xã xã xã xã
 
 Como usar
 =====================
-1. ~~Esta extensão é para **o browser** Google Chrome ![Lida com isso](http://i.imgur.com/hJNpb7h.png)~~ Disponível também para firefox [aqui](https://github.com/ptchanextension/PTChan-Firefox-Addon)
+1. Esta extensão é para Google Chrome (também disponível para firefox [aqui](https://github.com/ptchanextension/PTChan-Firefox-Addon))
 2. Clicar no botão "Download zip" no lado direito desta página
 3. Extrair o conteúdo do ZIP para uma pasta
 3. Para instalar a extensão:
