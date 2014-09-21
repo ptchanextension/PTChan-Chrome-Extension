@@ -5,15 +5,16 @@ Segure o xã, amarre o xã, segure o xã xã xã xã xã
 
 Como usar
 =====================
-1. Esta extensão é para **o browser** Google Chrome ![Lida com isso](http://i.imgur.com/hJNpb7h.png)
-2. Fazer download da extensão [aqui](https://github.com/ptchanextension/PTChan-Chrome-Extension/raw/master/PTChan-Chrome-Extension.crx) (ficheiro "PTChan-Chrome-Extension.crx" na lista acima).
+1. ~~Esta extensão é para **o browser** Google Chrome ![Lida com isso](http://i.imgur.com/hJNpb7h.png)~~ Disponível também para firefox [aqui](https://github.com/ptchanextension/PTChan-Firefox-Addon)
+2. Clicar no botão "Download zip" no lado direito desta página
+3. Extrair o conteúdo do ZIP para uma pasta
 3. Para instalar a extensão:
- 1. Abrir a pasta onde está a extensão
- 2. Abrir a página de extensões do chrome (colocar chrome://extensions na barra de endereço)
- 3. Arrastar o ficheiro PTChan-Chrome-Extension.crx da pasta para o browser
- 4. Clicar em "Adicionar"/"Add" no alerta que aparece
- 5. ????
- 6. Profiteroles
+ 1. Abrir a página de extensões do chrome (colocar chrome://extensions na barra de endereço)
+ 3. Ativar o modo developer marcando a opção "Modo Desenvolvedor"/"Developer Mode" no canto superior direito
+ 4. Clicar em "Carregar extensão em desenvolvimento" / "Load unpacked extension"
+ 5. Seleccionar a pasta com os conteúdos do download
+ 6. ????
+ 7. Profiteroles
 
 Funcionalidades
 =====================
