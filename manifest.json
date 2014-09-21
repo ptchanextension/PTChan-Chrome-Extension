@@ -18,7 +18,7 @@
     [
         {
             "matches": ["*://www.ptchan.net/*"],
-            "js": ["jquery-2.1.1.min.js", "contentscript.js"]
+            "js": ["jquery-2.1.1.min.js", "canvas-to-blob.min.js", "contentscript.js"]
         }
     ]
 }
